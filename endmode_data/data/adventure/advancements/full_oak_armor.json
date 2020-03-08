@@ -1,0 +1,38 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Basically a Tree Now",
+            "color": "white"
+        },
+        "description": {
+            "text": "Wear The Full Set Of Oak Armor",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:oak_log"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "yes": {
+            "trigger": "minecraft:enchanted_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:diorite"
+                },
+                "levels": {
+                    "min": 5,
+                    "max": 5
+                }
+            }
+        }
+    },
+    "rewards": {
+        "experience": 15
+    }
+}

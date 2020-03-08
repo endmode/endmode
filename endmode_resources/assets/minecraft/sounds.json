@@ -1,0 +1,52 @@
+{
+	"custom.wiimusic": {
+		"sounds": [
+			"customsounds/1"
+		]
+	},
+        "custom.blood_launch": {
+		"sounds": [
+			"customsounds/2"
+		]
+	},
+        "custom.magicthud": {
+		"sounds": [
+			"customsounds/3"
+		]
+	},
+        "custom.infectedalchemistmusic": {
+		"sounds": [
+			"customsounds/4"
+		]
+	},
+        "custom.infectedalchemistmusicend": {
+		"sounds": [
+			"customsounds/5"
+		]
+	},
+        "custom.withermusic": {
+		"sounds": [
+			"customsounds/6"
+		]
+	},
+        "custom.withermusicend": {
+		"sounds": [
+			"customsounds/7"
+		]
+	},
+	        "custom.witherab1": {
+		"sounds": [
+			"customsounds/8"
+		]
+	},
+		        "custom.enderswordab1": {
+		"sounds": [
+			"customsounds/9"
+		]
+	},
+		        "custom.enderswordab2": {
+		"sounds": [
+			"customsounds/10"
+		]
+	}
+}

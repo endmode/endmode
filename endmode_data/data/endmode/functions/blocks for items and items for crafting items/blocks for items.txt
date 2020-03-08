@@ -1,0 +1,37 @@
+TANK DRAGON WEAPON - yellow wool
+ATTACK DRAGON WEAPON - red wool
+HEAL DRAGON WEAPON - green wool
+INFECTED BOW - gray wool
+ENDER CHESTPLATE - black wool
+ENDER HELMET - orange wool
+ENDER LEGGINGS - pink wool
+ENDER BOOTS - brown wool
+ENCHANTED CHESTPLATE - black concrete
+ENCHANTED HELMET - yellow concrete
+ENCHANTED LEGGINGS - red concrete
+ENCHANTED BOOTS - blue concrete
+ENCHANTED BOW - white wool
+WOOD CHESTPLATE - magenta wool
+WOOD HELMET - purple wool
+WOOD LEGGINGS - lime wool
+WOOD BOOTS - cyan wool
+LIVELY CHESTPLATE - pink concrete
+LIVELY HELMET - lime concrete
+LIVELY LEGGINGS - magenta concrete
+LIVELY BOOTS - white concrete
+LIVING CHESTPLATE - black carpet
+LIVING HELMET - pink carpet
+LIVING LEGGINGS - green carpet
+LIVING BOOTS - red carpet
+SHARP IRON HOE - light gray wool
+SHARP DIAMOND HOE - blue carpet
+SHARP DARK STONE HOE - yellow carpet
+WHITE PICKAXE - purple carpet
+WHITE AXE - purple carpet
+LIFE CHESTPLATE - magenta carpet
+LIFE HELMET - orange carpet
+LIFE LEGGINGS - white carpet
+LIFE BOOTS - lime carpet
+CORRUPTED SCYTHE - red bed
+CORRUPTED TOTEM - blue bed
+BLOODY EDGE - green bed

@@ -1,0 +1,9 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/donkey_spawn_egg"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 0}, "model": "custom/flintaxe" }
+	]
+}

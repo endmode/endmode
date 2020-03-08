@@ -1,0 +1,9 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/redstone"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/redstone/1" }
+	]
+}

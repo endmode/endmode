@@ -1,0 +1,23 @@
+OAK CHESTPLATE - chicken egg
+OAK LEGGINGS - llama egg
+OAK HELMET - cow egg
+OAK BOOTS - pig egg
+LIVELY CHESTPLATE - skeleton egg
+LIVELY HELMET - enderman egg
+LIVELY LEGGINGS - villager egg
+LIVELY BOOTS - wolf egg
+FLINT HATCHET - donkey
+FLINT SHORTSWORD - cod
+COOKED EGG - zombie_horse
+BLANK TOTEM - spider
+STONE WARAXE - zombie
+IRON WARAXE - creeper
+GOLD WARAXE - polar bear
+DIAMOND WARAXE - dolphin
+GOLD COIN - bat
+
+
+
+
+
+
