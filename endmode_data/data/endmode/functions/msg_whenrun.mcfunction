@@ -1,2 +1,0 @@
-tellraw @a ["",{"text":"You have downloaded the "},{"text":"EndMode","bold":true,"color":"dark_purple"},{"text":" pack."}]
-tellraw @a {"text":"I hardly recommend using a new world for this datapack. Thank you.","color":"gray"}

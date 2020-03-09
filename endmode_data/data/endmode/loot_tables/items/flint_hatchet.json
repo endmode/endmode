@@ -1,0 +1,19 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:wooden_axe",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{endmode:{item:\"flint_hatchet\"},display:{Name:'{\"translate\":\"item.endmode.flint_hatchet\",\"italic\":false}'},CustomModelData:4690001}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

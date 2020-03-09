@@ -1,0 +1,47 @@
+{
+    "blood_launch": {
+        "sounds": [
+            "endmode:blood_launch"
+        ]
+    },
+    "magic_thud": {
+        "sounds": [
+            "endmode:magic_thud"
+        ]
+    },
+    "music.infected_alchemist": {
+        "sounds": [
+            "endmode:music/infected_alchemist"
+        ]
+    },
+    "music.infected_alchemist.end": {
+        "sounds": [
+            "endmode:music/infected_alchemist"
+        ]
+    },
+    "wither_music": {
+        "sounds": [
+            "endmode:music/wither"
+        ]
+    },
+    "wither_music.end": {
+        "sounds": [
+            "endmode:music/wither_end"
+        ]
+    },
+    "wither_ability": {
+        "sounds": [
+            "endmode:wither_ability"
+        ]
+    },
+    "item.ender_sword.ability1": {
+        "sounds": [
+            "endmode:item/ender_sword/ability1"
+        ]
+    },
+    "item.ender_sword.ability2": {
+        "sounds": [
+            "endmode:item/ender_sword/ability2"
+        ]
+    }
+}

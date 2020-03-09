@@ -1,23 +1,19 @@
 {
-    "type":"minecraft:block",
-    "pools":
-    [
+    "type": "minecraft:block",
+    "pools": [
         {
-            "rolls":1,
-            "entries":
-            [
+            "rolls": 1,
+            "entries": [
                 {
-                    "type":"minecraft:item",
-                    "name":"minecraft:stripped_jungle_wood"
+                    "type": "minecraft:item",
+                    "name": "minecraft:stripped_jungle_wood"
                 }
             ],
-            "conditions":
-            [
+            "conditions": [
                 {
-                    "condition":"minecraft:match_tool",
-                    "predicate":
-                    {
-                        "tag":"minecraft:axes"
+                    "condition": "minecraft:match_tool",
+                    "predicate": {
+                        "tag": "minecraft:axes"
                     }
                 }
             ]

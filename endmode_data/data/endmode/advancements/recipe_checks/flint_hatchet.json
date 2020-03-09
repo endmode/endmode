@@ -1,0 +1,18 @@
+{
+    "criteria": {
+        "craft_flint_hatchet": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "endmode:flint_hatchet"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "craft_flint_hatchet"
+        ]
+    ],
+    "rewards": {
+        "function": "endmode:item/flint_hatchet/craft"
+    }
+}

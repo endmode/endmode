@@ -1,7 +1,6 @@
 {
-  "values":[
-	"endmode:msg_whenrun",
-	"endmode:load2",
-	"endmode:objectives_whenrun"
-  ]
+    "replace": false,
+    "values": [
+        "endmode:load"
+    ]
 }
